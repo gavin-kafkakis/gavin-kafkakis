@@ -6,11 +6,14 @@
 
   ![](https://komarev.com/ghpvc/?username=gavin-kafkakis&color=447ff7&label=Visitor+count)
 
+---
 
 ### 🚀 Projects 
 - Des Moines Airport Project: Improved shuttle scheduling and parking forecasts through Excel, R, Phyton, and predictive modeling.
 - Data Storytelling through Tableau and PowerBi: Created interactive dashboards to visualize and communicate data-driven insights
 - SQL Database Project: Designed and created a SQL database to anaalyze the trends of movies throughout the years, and promoting the insights onto a webpage
+
+---
 
 ## 🛠️ Languages and Tools
 ![SQL](https://img.shields.io/badge/sql-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
@@ -22,7 +25,7 @@
 ![PowerBi](https://img.shields.io/badge/PowerBi-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) 
 ![Salesforce](https://img.shields.io/badge/salesforce-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) 
 
-
+---
 
 
 
