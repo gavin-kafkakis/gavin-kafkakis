@@ -31,7 +31,7 @@
 - Furthing my knowledge of SQL
 - Continuing to gain an understanding of Salesforce
 
-### Contact 
+### 📲 Contact 
 <a href="https:/https://www.linkedin.com/in/gavin-kafkakis/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 <a href="mailto:kafkakis.gavin@gmail.com">
