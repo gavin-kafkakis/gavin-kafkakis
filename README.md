@@ -14,7 +14,7 @@
 - SQL Database Project: Designed and created a SQL database to anaalyze the trends of movies throughout the years, and promoting the insights onto a webpage
 
 ## 🛠️ Languages and Tools
-![SQL](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 
 
