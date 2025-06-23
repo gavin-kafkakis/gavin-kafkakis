@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=sql,r,python,powerbi,tableau,salesforce,azure" />
+  <img src="https://skillicons.dev/icons?i=sql,r,python,powerbi,tableau,salesforce,azure, excel" />
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
 </p>
 
