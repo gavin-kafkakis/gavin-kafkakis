@@ -4,7 +4,7 @@
 ### About me 
   I am a recent grauate from the University of Iowa with a BBA in Business Analytics and Information Systems.  I enjoy using data to be able to meaningful stories, solve problems through data, and improve processes through effective code and visulaizations.  
 
-  ![](https://komarev.com/ghpvc/?username=adityakumar28&color=447ff7&label=Visitor+count)
+  ![](https://komarev.com/ghpvc/?username=gavin-kafkakis&color=447ff7&label=Visitor+count)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
