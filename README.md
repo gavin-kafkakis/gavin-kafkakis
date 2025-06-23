@@ -32,7 +32,8 @@
 - Continuing to gain an understanding of Salesforce
 
 ### Contact 
-<a href="https://https://www.linkedin.com/in/gavin-kafkakis" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https:/https://www.linkedin.com/in/gavin-kafkakis/">
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 <a href="mailto:kafkakis.gavin@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
