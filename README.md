@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Gavin
 
-### About me 
+### 💫 About me 
   I am a recent grauate from the University of Iowa with a BBA in Business Analytics and Information Systems.  I enjoy using data to be able to meaningful stories, solve problems through data, and improve processes through effective code and visulaizations.  
 
   ![](https://komarev.com/ghpvc/?username=gavin-kafkakis&color=447ff7&label=Visitor+count)
@@ -27,6 +27,8 @@
 
 ---
 
-
+### 📚 Currently Learning 
+- Furthing my knowledge of SQL
+- Continuing to gain an understanding of Salesforce
 
   
